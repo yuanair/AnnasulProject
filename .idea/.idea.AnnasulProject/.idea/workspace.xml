@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6861b269-f24e-4cb3-96e0-bfe390605a46" name="更改" comment="" />
+    <list default="true" id="6861b269-f24e-4cb3-96e0-bfe390605a46" name="更改" comment="Init file for GitHub" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yuanair/AnnasulProject.git",
+    "accountId": "6c378d51-a13f-43ff-95aa-09937270e873"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/shared/minwindef.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/shared/windef.h" root0="SKIP_HIGHLIGHTING" />
@@ -132,7 +138,7 @@
       <workItem from="1725694691547" duration="11936000" />
       <workItem from="1725762567707" duration="7590000" />
       <workItem from="1725770196135" duration="1583000" />
-      <workItem from="1725771799536" duration="11000" />
+      <workItem from="1725771799536" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="WindowsWindow">
       <option name="closed" value="true" />
@@ -206,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725771762174</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Init">
+      <option name="closed" value="true" />
+      <created>1725771839285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725771839285</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Init file for GitHub">
+      <option name="closed" value="true" />
+      <created>1725772106701</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725772106701</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +262,9 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Loop" />
     <MESSAGE value="Remove this file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove this file" />
+    <MESSAGE value="Init" />
+    <MESSAGE value="Init file for GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init file for GitHub" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
