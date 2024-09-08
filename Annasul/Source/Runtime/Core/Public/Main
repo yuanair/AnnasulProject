@@ -1,0 +1,9 @@
+#pragma once
+
+#include "Platform.h"
+
+#ifdef PLATFORM_WINDOWS
+#include "Windows/WindowsMain"
+#else
+#error "Platform not supported"
+#endif
